@@ -1,3 +1,48 @@
-body {
+body{
+    margin: 0px;
+    text-align: center;
+}
+.top-container{
+    background-color: e4f9f5;
+    position: relative;
+    padding-top: 100px;
+}
+h1{
+
+}
+.bottom-cloud{
+    position: absolute;
+}
+.upper-cloud{
+    position: absolute;
+    right:700px;
+}
+.middle-containere{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: absolute;
+    top:720px;
+    left:200px;
+
+}
+.bottom-container{
+    width: 100px;
+    height: 100px;
     background-color: blue;
+    position: absolute;
+    top:620px;
+    left:100px;
+
+
+}
+.new-container{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    position: absolute;
+    top:520;
+}
+.pro{
+    text-decoration: underline;
 }
